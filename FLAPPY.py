@@ -5,7 +5,7 @@ Created on Wed May 23 01:24:57 2018
 @author: Luck777
 """
 
-import pygame1
+import pygame
 import time
 import random
 import numpy as np
