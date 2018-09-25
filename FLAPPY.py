@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Wed May 23 01:24:57 2018
 
@@ -14,6 +14,7 @@ SZEROKOSC=480
 WYSOKOSC=600
 
 CZARNY = (0,0,0)
+
 CZERWONY = (255,0,0)
 JCZERWONY = (239, 57, 57)
 ZIELONY = (113, 244, 66)
